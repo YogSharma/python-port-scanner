@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # ^^^ Shebang line - tells the system to use Python 3 to run this script
-#     (using /usr/bin/env is more portable than hardcoding /usr/bin/python3)
 
 import sys
 import socket
